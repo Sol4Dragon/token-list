@@ -28517,4 +28517,20 @@
     "minor": 3,
     "patch": 3
   }
-}
+},
+{
+      "chainId": 101,
+      "address": "EXMLrAtF46ycZhnU44gjYX59P1aNTZHeg4zwUgJ1JGri",
+      "symbol": "SLDRGN",
+      "name": "SOL DRAGON",
+      "decimals": 9,
+      "logoURI": "http://soldragon.net/wp-content/uploads/2021/11/dragon.png",
+      "tags": [
+        "Game",
+        "PlayToEarn"
+      ],
+      "extensions": {
+       "website": "https://soldragon.net",
+       "twitter": "https://twitter.com/SOLDRAGON_"
+      }
+    }
